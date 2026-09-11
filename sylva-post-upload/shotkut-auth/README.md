@@ -1,4 +1,4 @@
-# Shotkut Studio Workspace — Auth System
+# Sylva Studio Workspace — Auth System
 
 MERN authentication build for the Gath Productions / Shotkut internship
 assessment (Part 1).
